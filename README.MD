@@ -1,2 +1,3 @@
 ## DEMO
-the demo file
+
+Now a new line added
